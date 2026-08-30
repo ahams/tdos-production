@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.db
+*.db-*
+.env
+reports/
+data/
+.DS_Store
+
+# Local development files
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
